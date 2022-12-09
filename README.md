@@ -2,7 +2,7 @@
 - 👀 I'm interested in CyberSecurity
 - 🌱 I’m currently learning web, Network, AD abd Mobile  pentesting
 <!-- 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me in LinkedIn ` www.linkedin.com/in/muhammed-dardir`
+- 📫 How to reach me in [LinkedIn](https://www.linkedin.com/in/muhammed-dardir)
 
 <!---
 muhammeddardir/muhammeddardir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
