@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammeddardir
 - 👀 I'm interested in CyberSecurity
-- 🌱 I’m currently learning web, Network, AD, Mobile  pentest
+- 🌱 I’m currently learning web, Network, AD abd Mobile  pentesting
 <!-- 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me in LinkedIn ` www.linkedin.com/in/muhammed-dardir`
 
