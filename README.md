@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammeddardir
 - 👀 I'm interested in CyberSecurity
-- 🌱 I’m currently learning web, Network, AD abd Mobile  pentesting
+- 🌱 I’m currently working as Security Analysis [SOC L1] 
 <!-- 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me in [LinkedIn](https://www.linkedin.com/in/muhammed-dardir)
 
